@@ -1,3 +1,12 @@
 
 .fake
 .vscode
+bin/
+obj/
+*.suo
+*.user
+*.bak
+*.cache
+*.log
+*.dll
+*.exe
